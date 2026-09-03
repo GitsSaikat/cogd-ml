@@ -1,0 +1,1 @@
+A social media user completed a TPB survey (scale 1-5). Attitude toward social commerce (ATTD): {attd} ({attd_i}), Subjective Norm (SN): {sn} ({sn_i}), Perceived Behavioral Control (PBC): {pbc} ({pbc_i}). Overall TPB signal strength: {overall} ({overall_i}). Predict: will this person intend to purchase products on social media?

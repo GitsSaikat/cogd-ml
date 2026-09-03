@@ -1,0 +1,7 @@
+Here are labelled examples retrieved from the training split:
+
+{examples}
+
+Now classify the following case. Answer with exactly one word: "likely" or "unlikely".
+
+{query}

@@ -1,0 +1,7 @@
+[project]
+name = "cogdml"
+version = "1.0.0"
+requires-python = ">=3.11"
+
+[tool.setuptools]
+packages = ["cogdml"]

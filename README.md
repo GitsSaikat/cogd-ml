@@ -72,10 +72,8 @@ See `data/README.md` for the codebook and the mapping caveats.
 
 ## Citing
 
-See `CITATION.cff`. An archived release with a DOI accompanies the published
-article.
+See `CITATION.cff`. If you use this software or data, please cite the article.
 
 ## License
 
-MIT for the code. Our survey data is released under CC BY 4.0. The external
-dataset remains under its own Mendeley Data licence and is not redistributed here.
+MIT for the code. 
